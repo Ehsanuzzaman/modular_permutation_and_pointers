@@ -11,4 +11,4 @@
 
 ###That's it.
 
-####If you have any question or any suggestion or you want to say anything, you can email me at "ehsanzaman.k@gmail.com".
+####If you find any error, please email me. I would be happy to fix it. If you have any feedback you want to send, you can send me as well. Any kind of feedback is welcome. If you have or know a much more efficient way to do so, please send me the link to the code or the code as well. It would be much help. My email: ehsanzaman.k@gmail.com
